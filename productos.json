@@ -1,17 +1,23 @@
 [
   {
-    "nombre": "ELEMENTO 551 DEPORTIVA - SOQUETE DAMA",
+    "nombre": "ELEMENTO 551 DEPORTIVA SOQUETE DE DAMA",
     "precio": 2821.91,
     "imagenes": [
-      "https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO551D1.jfif"
+      "https://raw.githack.com/AlcatrazServer/patotienda/main/elemento551_1.jfif",
       
-    ]
+    ],
+    "colores": ["Varios"],
+    "talles": ["Unico"]
   },
   {
-    "nombre": "ELEMENTO 024 PACK X3 MUJER - INVISIBLE DAMA",
+    "nombre": "ELEMENTO 401 RAYADAS 1/3 CAÑA DE DAMA",
     "precio": 6545.71,
     "imagenes": [
-      "https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO401R1.jfif"
-    ]
+      "https://raw.githack.com/AlcatrazServer/patotienda/main/elemento401R1.jfif",
+     
+    ],
+    "colores": ["Varios"],
+    "talles": ["Unico"]
   }
 ]
+
