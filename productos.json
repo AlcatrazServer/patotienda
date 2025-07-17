@@ -2,19 +2,57 @@
   {
     "nombre": "ELEMENTO 551 DEPORTIVA SOQUETE DE DAMA",
     "precio": 2821.91,
-    "imagenes": [
-    
-      "https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO551D1.jfif"
-    ],
+    "imagenes": ["https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO551D1.jfif"],
     "colores": ["Varios"],
     "talles": ["Unico"]
   },
   {
     "nombre": "ELEMENTO 401 RAYADAS 1/3 CAÑA DE DAMA",
     "precio": 6545.71,
-    "imagenes": [
-      "https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO401R1.jfif"
-    ],
+    "imagenes": ["https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO401R1.jfif"],
+    "colores": ["Varios"],
+    "talles": ["Unico"]
+  },
+
+  {
+    "nombre": "ELEMENTO 953 MEDIAS HOMBRE",
+    "precio": 3905.92,
+    "imagenes": ["https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO953H1.WEBP"],
+    "colores": ["Varios"],
+    "talles": ["Unico"]
+  },
+  {
+    "nombre": "ELEMENTO 502 MEDIAS HOMBRE",
+    "precio": 4336.01,
+    "imagenes": ["https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO502H1.WEBP"],
+    "colores": ["Varios"],
+    "talles": ["Unico"]
+  },
+  {
+    "nombre": "ELEMENTO 954 MEDIAS HOMBRE",
+    "precio": 3905.92,
+    "imagenes": ["https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO954H1.WEBP"],
+    "colores": ["Varios"],
+    "talles": ["Unico"]
+  },
+  {
+    "nombre": "ELEMENTO 952 MEDIAS HOMBRE",
+    "precio": 3905.92,
+    "imagenes": ["https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO952H1.WEBP"],
+    "colores": ["Varios"],
+    "talles": ["Unico"]
+  },
+  {
+    "nombre": "ELEMENTO 951 MEDIA 3/4 HOMBRE OFERTA",
+    "precio": 3486.34,
+    "imagenes": ["https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO951H1.WEBP"],
+    "colores": ["Varios"],
+    "talles": ["Unico"]
+  },
+  {
+    "nombre": "ELEMENTO 950 MEDIAS HOMBRE",
+    "precio": 3905.92,
+    "imagenes": ["https://raw.githack.com/AlcatrazServer/patotienda/main/ELEMENTO950H1.WEBP"],
     "colores": ["Varios"],
     "talles": ["Unico"]
   }
